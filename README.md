@@ -5,8 +5,9 @@ Update your Debian based linux with ease.
 ## Run
 
 Just copy and paste this line on your machine and hit enter:
+
 ```bash
-curl
+bash <(curl -sSL "https://bit.ly/easy-update")
 ```
 
 ## Contribution
