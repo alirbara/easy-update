@@ -1,6 +1,6 @@
-# easy-update
+# Easy Update
 
-Update your Debian based linux with ease.
+This simple script updates your apt repositories, updates the programs and reboots your system whether there was a kernel upgrade as well.
 
 ## Run
 
