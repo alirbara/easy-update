@@ -23,6 +23,7 @@ main() {
         check_kernel
     else
         echo "There was a problem while updating your package manager. 😢"
+    fi
 }
 
 main
