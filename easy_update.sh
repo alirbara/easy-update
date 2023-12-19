@@ -12,7 +12,7 @@ check_kernel() {
     if [ "$current_kernel" != "$latest_kernel" ]; then
         echo "Kernel has been updated. Do you want to reboot? (y/n)"
         read response
-        if [ $response == "y"]; then
+        if [ $response == "y" ]; then
             echo "Rebooting"
             sudo reboot
         else
