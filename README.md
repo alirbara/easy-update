@@ -11,6 +11,7 @@ bash <(curl -sSL "https://bit.ly/easy-update")
 ```
 
 If the above command did'nt work:
+
 ```bash
 bash <(curl -sSL "https://raw.githubusercontent.com/AlirezaBaratian/easy-update/main/easy_update.sh")
 ```
