@@ -10,7 +10,7 @@ Just copy and paste this line on your machine and hit enter:
 bash <(curl -sSL "https://bit.ly/easy-update")
 ```
 
-If the above command did'nt work:
+If the above command did not work:
 
 ```bash
 bash <(curl -sSL "https://raw.githubusercontent.com/AlirezaBaratian/easy-update/main/easy_update.sh")
