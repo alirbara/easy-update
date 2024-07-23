@@ -19,7 +19,7 @@ check_kernel() {
             echo "Done!"
         fi
     else
-        echo "Kernel is up to date, so no need to reboot. ✌️"
+        echo "Kernel is up to date, no need to reboot."
     fi
 }
 
